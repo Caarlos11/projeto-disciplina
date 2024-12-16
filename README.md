@@ -7,3 +7,5 @@ e entre outras funcionalidades que pretendemos desenvolver.
 
 
 Projeto no Trello: https://trello.com/invite/b/6716e08adf2a1c7423a9f287/ATTIfc6570de00b24abb9f581435479ee26b9134658B/projeto-notstress
+
+Protótipo da aplicação no Quant-UX: https://app.quant-ux.com/#/test.html?h=a2aa10a2n3dOJbYQypjCjIvoheT4OWKO9RE2LGcqrVai6qvQSILYOwGnMrdy&ln=en
