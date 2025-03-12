@@ -1,4 +1,4 @@
-# projeto-disciplina
+# Projeto NotStress
 Repositório para anexar arquivos e materiais em relação a disciplina, bem como coisas do projeto
 
 O projeto que será desenvolvido, será um aplicativo ou site para a área da psicologia e áreas relacionadas.
